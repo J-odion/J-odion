@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on Laravel application, Vue application, WordPress Theme dev, Unity 3D and 2D Games.
 
-📫 How to reach me: [email](mailto:emmyjaff22@gmail.com)
+📫 How to reach me: [Emmyjaff22@gmail.com](mailto:emmyjaff22@gmail.com)
 
 <br />
 
@@ -34,16 +34,15 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
   
-- 💼 any freelance work? do reach, [email](mailto:emmyjaff22@gmail.com) :)
+- 💼 any freelance work? do reach, [Emmyjaff22@gmail.com](mailto:emmyjaff22@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
 
 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="20" height="40"/> </a>
-
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="20" height="20"  margin="50px"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logotype.min.svg" alt="laravel" width="20" height="20"  margin="50px"/> </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logotype.min.svg" alt="laravel" width="40" height="20"  margin="50px"/> </a>
 
 
 <!--END_SECTION:waka-->
