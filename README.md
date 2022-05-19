@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm  ✨ Emmanuel Jafaru ✨</h1>
 
+<br>
+<p align="left"> <a href="https://twitter.com/el_emmyjaff" target="blank"><img src="https://img.shields.io/twitter/follow/el_emmyjaff?style=social" alt="el_emmyjaff" /></a> </p>
+
+
 <!--
 **J-odion/J-odion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,8 +37,21 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/el_emmyjaff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mofe_iv" height="40" width="20" /></a> <a href="#"></a>
+<a href="https://inkedin.com/in/emmanuel-jafaru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyimofe ogunbiyi" height="40" width="20"  /></a>
+</p>
+
+
+
+
+
   
-- 💼 any freelance work? do reach, [Emmyjaff22@gmail.com](mailto:emmyjaff22@gmail.com) :)
+- 💼 any freelance project within my skill set? do reach, [Emmyjaff22@gmail.com](mailto:emmyjaff22@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
@@ -47,5 +64,5 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!--END_SECTION:waka-->
 
-⚡ Fun fact: I play the Bass guitar and Squash. (Bronze, Silver, Gold Medalist 👉👈).
+⚡ Fun fact: I play the Bass guitar and Squash. (Bronze, Silver, Gold Medalist 👉👈). <br>
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
