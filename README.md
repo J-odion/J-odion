@@ -62,7 +62,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 <img height="20" src="https://avatars.githubusercontent.com/u/6412038?s=280&v=4" width="20" height="40"/>
-<img height="20" src="[https://avatars.githubusercontent.com/u/6412038?s=280&v=4](https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png)" width="20" height="40"/>
+<img height="20" src="[https://avatars.githubusercontent.com/u/6412038?s=280&v=4](https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png)" />
 
 
 <!--END_SECTION:waka-->
