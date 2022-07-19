@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 Front-end React and React Native Developer.
 
-- 🤔 I’m looking for help with Job Placements and internship openings.
+- 🤔 I’m Open for help with Job Placements collaboration openings.
 
 - 👯 I’m looking to collaborate on React web applications, React Native Mobile application.
 
