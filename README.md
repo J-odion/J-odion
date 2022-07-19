@@ -19,19 +19,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Unity Game Development.
+- 🌱 Front-end React and React Native Developer.
 
 - 🤔 I’m looking for help with Job Placements and internship openings.
 
-- 👯 I’m looking to collaborate on Laravel application, Vue application, WordPress Theme dev, Unity 3D and 2D Games.
+- 👯 I’m looking to collaborate on React web applications, React Native Mobile application.
+
+- 👯 Interested in React meet-ups and Tech events.
+
+AKA The react evangelist
 
 📫 How to reach me: [Emmyjaff22@gmail.com](mailto:emmyjaff22@gmail.com)
 
 <br />
 
-Hi, I'm [Emmanuel Jafaru], an enthusiatic  self-taught Unity Game Developer and full stack web developer. My passion for Game development goes way back into my primary school days where I would pull in Zuma delux game into notepad and edit the colors to make the levels easier to play (smiling face emoji, winks). Those days ended qucikly and a whloe lot transpired. but here we are in the hands of Unity after going through React, Laravel, Vue, Angular, and a host of others framework. oh did i forget flutter?.
+Hi, I'm [Emmanuel Jafaru], an enthusiatic  self-taught React web and mobile Developer. My passion for codes go way back into my primary school days where I would pull in Zuma delux game into notepad and edit the colors to make the levels easier to play (smiling face emoji, winks). Those days ended qucikly and a whloe lot transpired. but here we are in the hands of React.
 
-
+I promist to play my part in making the web a more react-ive place
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -57,7 +61,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 **languages and tools:**  
 
 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="20" height="40"/> </a>
+<img height="20" src="https://avatars.githubusercontent.com/u/6412038?s=280&v=4" width="20" height="40"/>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="20" height="20"  margin="50px"/> </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logotype.min.svg" alt="laravel" width="40" height="20"  margin="50px"/> </a>
 
