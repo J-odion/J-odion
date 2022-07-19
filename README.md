@@ -64,8 +64,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" width="40" height="40" />
 
-<svg xmlns="http://www.w3.org/2000/svg" role="img" width="28" height="28" viewBox="0 0 28 28">
-<!--END_SECTION:waka-->
 
 ⚡ Fun fact: I play the Bass guitar and Squash. (Bronze, Silver, Gold Medalist 👉👈). <br>
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
