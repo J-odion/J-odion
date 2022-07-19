@@ -61,8 +61,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 **languages and tools:**  
 
 
-<img height="20" src="https://avatars.githubusercontent.com/u/6412038?s=280&v=4" width="20" height="40"/>
-<img height="20" src="[https://avatars.githubusercontent.com/u/6412038?s=280&v=4](https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png)" />
+<img src="https://avatars.githubusercontent.com/u/6412038?s=280&v=4" width="40" height="40"/>
+<img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" width="40" height="40" />
 
 
 <!--END_SECTION:waka-->
