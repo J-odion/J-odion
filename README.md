@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm  ✨ Emmanuel Jafaru ✨</h1>
-
+<p>#React-developer #React-native-developer #React-speaker</p>
 <br>
 <p align="left"> <a href="https://twitter.com/el_emmyjaff" target="blank"><img src="https://img.shields.io/twitter/follow/el_emmyjaff?style=social" alt="el_emmyjaff" /></a> </p>
 
-<p>#React-developer #React-native-developer #React-speaker</p>
+
 <!--
 **J-odion/J-odion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
