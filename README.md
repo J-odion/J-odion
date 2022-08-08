@@ -67,3 +67,5 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ⚡ Fun fact: I play the Bass guitar and Squash. (Bronze, Silver, Gold Medalist 👉👈). <br>
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=J-odion)](https://git.io/streak-stats)
