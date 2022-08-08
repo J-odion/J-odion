@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm  ✨ Emmanuel Jafaru ✨</h1>
 <p>#React-developer #React-native-developer #React-speaker #React-native-speaker</p>
 <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=J-odion)](https://git.io/streak-stats)
 <p align="left"> <a href="https://twitter.com/el_emmyjaff" target="blank"><img src="https://img.shields.io/twitter/follow/el_emmyjaff?style=social" alt="el_emmyjaff" /></a> </p>
 
 
@@ -68,4 +69,4 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ⚡ Fun fact: I play the Bass guitar and Squash. (Bronze, Silver, Gold Medalist 👉👈). <br>
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=J-odion)](https://git.io/streak-stats)
+
