@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm  ✨ Emmanuel Jafaru ✨</h1>
 <p>#React-developer #React-native-developer #React-speaker #React-native-speaker</p>
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=J-odion)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=J-odion)](https://git.io/streak-stats)
+
 <p align="left"> <a href="https://twitter.com/el_emmyjaff" target="blank"><img src="https://img.shields.io/twitter/follow/el_emmyjaff?style=social" alt="el_emmyjaff" /></a> </p>
 
 
