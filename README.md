@@ -67,6 +67,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" width="40" height="40" />
 <img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40" height="40" />
+<svg class="logo" viewBox="0 0 128 128" width="24" height="24" data-v-7f4fb87e=""><path fill="#42b883" d="M78.8,10L64,35.4L49.2,10H0l64,110l64-110C128,10,78.8,10,78.8,10z" data-v-7f4fb87e=""></path><path fill="#35495e" d="M78.8,10L64,35.4L49.2,10H25.6L64,76l38.4-66H78.8z" data-v-7f4fb87e=""></path></svg>
 
 
 ⚡ Fun fact: I play the Bass guitar and Squash. (Bronze, Silver, Gold Medalist 👉👈). <br>
