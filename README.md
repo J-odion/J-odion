@@ -67,7 +67,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" width="40" height="40" />
 <img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="100" height="40" />
-<img src="[https://angular.io/assets/images/logos/angular/logo-nav@2x.png](https://www.w3schools.com/whatis/img_vue.jpg)" width="40" height="40" />
+<img src="https://www.w3schools.com/whatis/img_vue.jpg" width="40" height="40" />
 
 
 
