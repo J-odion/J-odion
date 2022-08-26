@@ -49,7 +49,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/el_emmyjaff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mofe_iv" height="40" width="20" /></a> <a href="#"></a>
+<a href="https://twitter.com/el_emmyjaff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mofe_iv" height="40" width="20" /></a> <a href="#"></a> <br />
 <a href="https://inkedin.com/in/emmanuel-jafaru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyimofe ogunbiyi" height="40" width="20"  /></a>
 </p>
 
@@ -72,6 +72,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 ⚡ Fun fact: I play the Bass guitar and Squash. (Bronze, Silver, Gold Medalist 👉👈). <br>
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
 
 
