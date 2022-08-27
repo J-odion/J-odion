@@ -69,7 +69,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="150" height="40" />
 <img src="https://www.w3schools.com/whatis/img_vue.jpg" width="40" height="40" />
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-odion&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ⚡ Fun fact: I play the Bass guitar and Squash. (Bronze, Silver, Gold Medalist 👉👈). <br>
 
