@@ -6,6 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/el_emmyjaff" target="blank"><img src="https://img.shields.io/twitter/follow/el_emmyjaff?style=social" alt="el_emmyjaff" /></a> </p>
 
+<img src="https://komarev.com/ghpvc/?username=J-odion&style=flat-square&color=blue" alt=""/>
 
 <!--
 **J-odion/J-odion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
