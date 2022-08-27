@@ -71,6 +71,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-odion&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-odion&show_icons=true&theme=radical)
+
 ⚡ Fun fact: I play the Bass guitar and Squash. (Bronze, Silver, Gold Medalist 👉👈). <br>
 
 
