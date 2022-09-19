@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  ✨ Emmanuel Jafaru ✨</h1>
-<p>#React-developer #React-native-developer #React-speaker #React-native-speaker #Vue-developer #Angular-developer #Frontend-Technologies</p>
+<p>#React-developer #React-native-developer #Next-js-Developer #React-speaker #React-native-speaker #Vue-developer #Angular-developer #Frontend-Technologies</p>
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=J-odion)](https://git.io/streak-stats)
