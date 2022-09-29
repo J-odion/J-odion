@@ -66,18 +66,18 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ## Technologies and Tools:
 
 
-<p align="left">
+<p align="center">
 <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" width="40" height="40" />
 <img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="150" height="40" />
 <img src="https://www.w3schools.com/whatis/img_vue.jpg" width="40" height="40" />
 <img src="https://pbs.twimg.com/media/FAXymZJXIAkERod.jpg" background-color="white" width="40" height="40" />
 </p>
 
-
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-odion&langs_count=8&theme=dracula&border_radius=10&layout=compact&hide=python,C,powershell)](https://github.com/J-odion/github-readme-stats)
 
 ![J-odion's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-odion&count_private=true&theme=radical&border_radius=10)
-
+</p>
 
 ⚡ Fun fact: I play the Bass guitar and Squash. (Bronze, Silver, Gold Medalist 👉👈). <br>
 
