@@ -73,11 +73,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img src="https://pbs.twimg.com/media/FAXymZJXIAkERod.jpg" background-color="white" width="40" height="40" />
 </p>
 
-<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-odion&langs_count=8&theme=dracula&border_radius=10&layout=compact&hide=python,C,powershell)](https://github.com/J-odion/github-readme-stats)
 
 ![J-odion's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-odion&count_private=true&theme=radical&border_radius=10)
-</p>
 
 ⚡ Fun fact: I play the Bass guitar and Squash. (Bronze, Silver, Gold Medalist 👉👈). <br>
 
