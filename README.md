@@ -80,5 +80,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ⚡ Fun fact: I play the Bass guitar and Squash. (Bronze, Silver, Gold Medalist 👉👈). <br>
 
+![J-odion's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-odion&count_private=true&theme=radical&border_radius=10)
+
+&nbsp;
+
+<img height="120" alt="VIsit me as much as you can." width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=J-odion&label=Profile%20views&color=F75412&style=flat" alt="J-odion" /> </p>
 
 
