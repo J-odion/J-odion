@@ -63,13 +63,15 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
+## Technologies and Tools:
 
 
-
+<p align="left">
 <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" width="40" height="40" />
 <img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="150" height="40" />
 <img src="https://www.w3schools.com/whatis/img_vue.jpg" width="40" height="40" />
 <img src="https://pbs.twimg.com/media/FAXymZJXIAkERod.jpg" background-color="white" width="40" height="40" />
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-odion&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
