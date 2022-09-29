@@ -73,7 +73,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img src="https://pbs.twimg.com/media/FAXymZJXIAkERod.jpg" background-color="white" width="40" height="40" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-odion&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-odion&langs_count=8&theme=dracula&border_radius=10&layout=compact&hide=python,C,powershell)](https://github.com/J-odion/github-readme-stats)
 
