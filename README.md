@@ -44,7 +44,7 @@ I promist to play my part in making the web a more react-ive place
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-<div display="inline-flex" width="80%" justify-content="space-between">
+<div display="inline-flex" width="80%" gap='20px' justify-content="space-between">
    
 <img width="380px" margin="50px" src="https://github-readme-stats.vercel.app/api?username=J-odion&show_icons=true&hide_border=false&border_color=2fa4e7&count_private=true&theme=github_dark"/>
 
