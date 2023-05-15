@@ -51,8 +51,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=J-odion&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&locale=en&layout=compact&theme=github-dark"/>
 </div>
 
-![commits.top ranking](https://iot.fbiego.com/api/v1/commits?user=J-odion&country=kenya&text_color=2fa4e7&border_color=000&bg_color=00030a)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-jafaru/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/el_emmyjaff) 
 
