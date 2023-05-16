@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 
 - 👯 Interested in meet-ups and Tech events.
 
-AKA The react evangelist
+AKA The-mobile-evangelist
 
 📫 How to reach me: [Emmyjaff22@gmail.com](mailto:emmyjaff22@gmail.com)
 
 <br />
 
-Hi, I'm [Emmanuel Jafaru], an enthusiatic  self-taught web and mobile Developer. My passion for codes go way back into my primary school days where I would pull in Zuma delux game into notepad and edit the colors to make the levels easier to play (smiling face emoji, winks). Those days ended qucikly and a whloe lot transpired. but here we are in the hands of React.
+Hi, I'm [Emmanuel Jafaru], an enthusiatic  mobile Developer. My passion for codes go way back into my primary school days where I would pull in Zuma delux game into notepad and edit the colors to make the levels easier to play (smiling face emoji, winks). Those days ended qucikly and a whloe lot transpired. but here we are in the hands of React.
 
 I promist to play my part in making the web a more react-ive place
 
