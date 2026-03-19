@@ -61,33 +61,7 @@ Jest • Cypress
 ---
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=J-odion)](https://git.io/streak-stats)
-
-
-📫 How to reach me: [Emmyjaff22@gmail.com](mailto:emmyjaff22@gmail.com)
-
-<br />
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- href="https://inkedin.com/in/emmanuel-jafaru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyimofe ogunbiyi" height="40" width="20"  /> Check me out on LinkedIn</a>
-</p>
-
-
-
-
-
-  
-- 💼 any freelance project within my skill set? do reach, [Emmyjaff22@gmail.com](mailto:emmyjaff22@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-
-**languages and tools:**  
 ## Technologies and Tools:
-
-
-<p align="center">
-<img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" width="40" height="40" />
-<img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="150" height="40" />
 
 ![J-odion's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-odion&count_private=true&theme=radical&border_radius=20)
 
