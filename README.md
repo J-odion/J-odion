@@ -3,7 +3,7 @@
 
 Senior Frontend Engineer focused on building scalable, high-performance web and mobile applications.
 
-----
+---
 
 ## About Me
 
